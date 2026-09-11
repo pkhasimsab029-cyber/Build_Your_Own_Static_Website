@@ -1,6 +1,9 @@
 .card{
     text-align: center;
-    background-color: rgb(112, 204, 234);
+    background-image: url("https://d2clawv67efefq.cloudfront.net/ccbp-static-website/ocean.jpg");
+    height: 100vh;
+    weight: 100vw;
+    background-size: cover;
 }
 .main-heading{
     color: rgb(96, 96, 144);
